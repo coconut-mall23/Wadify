@@ -1,9 +1,6 @@
 <!DOCTYPE html>
-  <html>
-      <head>
-          </title>my Webpage</title>
-      </head>
-  <body>
-          <h1>Hello World!</h1>
-    </body>
-  </html>
+  </head>
+      <body>
+          <h1>Learning to do HTML and making a game website!</h1>
+      </body>
+</html>
